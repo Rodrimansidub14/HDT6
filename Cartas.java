@@ -1,3 +1,3 @@
-public class Mapa {
+public class Cartas {
     
 }
